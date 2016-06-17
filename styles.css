@@ -1,6 +1,9 @@
 ﻿html, body {margin:0;padding:0;height:100%}
 
-#centre {
+.centre {
     position: fixed;
+    width: 10%;
+    height: 10%;
+    background-image: url("favicon.ico");
     border-radius: 100%;
 }
